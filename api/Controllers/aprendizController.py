@@ -1,3 +1,4 @@
+
 from flask import jsonify
 from Services.aprendizService import aprendizService
 
